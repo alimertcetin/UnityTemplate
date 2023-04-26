@@ -1,0 +1,3 @@
+[submodule "UnityTemplate/XIV-Core"]
+	path = UnityTemplate/XIV-Core
+	url = https://github.com/alimertcetin/XIV-Core.git
